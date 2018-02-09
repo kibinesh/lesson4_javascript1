@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 9, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kibinesh Fulas
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+the main goal of the assignment was the complete the expense calculator application in JavaScript and Test it.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://kibinesh.github.io/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JavaScript prgramming language, how it differs from other languges and the benefits of using script language.
+2. Basic JavaScript syntax ruls and tips;
+3. Variables and Data types;
+4. ways of adding JavaScript codes to a document; 
 
 
 
