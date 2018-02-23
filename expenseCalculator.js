@@ -183,7 +183,9 @@
                   document.getElementById("totalExpenses").innerHTML = ""; 
                   document.getElementById("shelterPercentage").innerHTML = "";      
                   document.getElementById("foodPercentage").innerHTML  = "";
-
+                  document.getElementById("householdPercentage").innerHTML = " ";
+                  document.getElementById("transportationPercentage").innerHTML = " ";
+                  document.getElementById("miscellaneousPercentage").innerHTML = " ";
 
               
          }//end of clearForm function
